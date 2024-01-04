@@ -5,6 +5,7 @@
 
 ### Display Effects
 Below are the display effects of version 1.0.
+![IMG_20240104_141624](https://github.com/funnygeeker/circuitpython-easydisplay/assets/96659329/7bec666b-bbb6-43e6-91af-3c1cf7103037)
 
 ### Project Features
 - Supports displaying non-ASCII characters, such as Chinese and special symbols, by importing `bmf` font files.
