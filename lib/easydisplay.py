@@ -16,7 +16,7 @@
 
 from io import BytesIO
 from struct import unpack
-from lib.adafruit_framebuf import FrameBuffer, MHMSB, RGB565, MHMSB
+from lib.adafruit_framebuf import FrameBuffer, RGB565, MHMSB
 
 
 class EasyDisplay:
